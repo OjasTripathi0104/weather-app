@@ -2,11 +2,11 @@ Weather dashboard app that provides real-time weather, air quality index, 5-day 
 
 
 ## Tech Stack used:
-React (with Hooks)
-Material-UI (MUI) and custom inline styles
-Axios for API integration
-OpenWeatherMap API
-Vite for fast builds
+1) React (with Hooks)
+2) Material-UI (MUI) and custom inline styles
+3) Axios for API integration
+4) OpenWeatherMap API
+5) Vite for fast builds
 
 
 ## Setup Instructions:
