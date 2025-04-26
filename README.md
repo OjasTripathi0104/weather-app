@@ -10,17 +10,17 @@ Weather dashboard app that provides real-time weather, air quality index, 5-day 
 
 
 ## Setup Instructions:
-1) Clone the repository
-   git clone https://github.com/OjasTripathi0104/weather-app.git
+1) Clone the repository <br />
+   git clone https://github.com/OjasTripathi0104/weather-app.git <br />
    cd weather-app
-2) Install dependencies
+2) Install dependencies <br />
    npm install
 3) Create a .env file in the root directory
-4) Add your OpenWeatherMap API key in .env
+4) Add your OpenWeatherMap API key in .env <br />
    VITE_API_KEY=your_openweathermap_api_key_here
-5) Start the development server
+5) Start the development server <br />
    npm run dev
-6) Run the app at
+6) Run the app at <br />
    http://localhost:5173
 
 ## API Integration: 
